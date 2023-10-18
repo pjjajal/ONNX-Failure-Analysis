@@ -1,0 +1,642 @@
+[
+  {
+    "model": "model_0_2145756946",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_0_2145756946/model",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMax(13) node with name 'StatefulPartitionedCall/ArgMax'"
+  },
+  {
+    "model": "model_10_2335852697",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_10_2335852697/model",
+    "result": 0,
+    "error": null,
+    "mad": 1.2733409404754639,
+    "onnx_model_path": "exporter_test_results/tensorflow/30/model_10_2335852697/model.onnx"
+  },
+  {
+    "model": "model_11_1451789793",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_11_1451789793/model",
+    "result": 0,
+    "error": null,
+    "mad": NaN,
+    "onnx_model_path": "exporter_test_results/tensorflow/30/model_11_1451789793/model.onnx"
+  },
+  {
+    "model": "model_12_1007256637",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_12_1007256637/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_13_3456209437",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_13_3456209437/model",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Erf(13) node with name 'StatefulPartitionedCall/Gelu/Erf'"
+  },
+  {
+    "model": "model_14_3585471621",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_14_3585471621/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_15_1781558223",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_15_1781558223/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_16_172016677",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_16_172016677/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_17_2514202002",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_17_2514202002/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_18_751882835",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_18_751882835/model",
+    "result": 0,
+    "error": null,
+    "mad": 3653.869873046875,
+    "onnx_model_path": "exporter_test_results/tensorflow/30/model_18_751882835/model.onnx"
+  },
+  {
+    "model": "model_19_1300373439",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_19_1300373439/model",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Erf(13) node with name 'PartitionedCall/Gelu/Erf'"
+  },
+  {
+    "model": "model_1_971800152",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_1_971800152/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_20_328074813",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_20_328074813/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_21_1030240529",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_21_1030240529/model",
+    "result": 0,
+    "error": null,
+    "mad": 21.23060417175293,
+    "onnx_model_path": "exporter_test_results/tensorflow/30/model_21_1030240529/model.onnx"
+  },
+  {
+    "model": "model_22_52272680",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_22_52272680/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_23_1329048034",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_23_1329048034/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_24_1746050756",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_24_1746050756/model",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Erf(13) node with name 'PartitionedCall/Gelu_1/Erf'"
+  },
+  {
+    "model": "model_25_1849147320",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_25_1849147320/model",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 6 : RUNTIME_EXCEPTION : Non-zero status code returned while running Concat node. Name:'PartitionedCall/concat' Status Message: /Users/runner/work/1/s/onnxruntime/core/providers/cpu/tensor/concat.cc:141 onnxruntime::common::Status onnxruntime::ConcatBase::PrepareForCompute(onnxruntime::OpKernelContext *, const onnxruntime::ConcatBase::InlinedTensorsVector &, onnxruntime::Prepare &) const input_rank == reference_rank was false. Ranks of input data are different, cannot concatenate them. expected rank: 2 got: 1\n"
+  },
+  {
+    "model": "model_26_3296252979",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_26_3296252979/model",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 6 : RUNTIME_EXCEPTION : Non-zero status code returned while running Reshape node. Name:'Transpose__90' Status Message: /Users/runner/work/1/s/onnxruntime/core/providers/cpu/tensor/reshape_helper.h:41 onnxruntime::ReshapeHelper::ReshapeHelper(const onnxruntime::TensorShape &, onnxruntime::TensorShapeVector &, bool) gsl::narrow_cast<int64_t>(input_shape.Size()) == size was false. The input tensor cannot be reshaped to the requested shape. Input shape:{59,1,55,1,59}, requested shape:{59,55,1,1}\n"
+  },
+  {
+    "model": "model_27_4017351814",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_27_4017351814/model",
+    "result": 0,
+    "error": null,
+    "mad": 3.343618392944336,
+    "onnx_model_path": "exporter_test_results/tensorflow/30/model_27_4017351814/model.onnx"
+  },
+  {
+    "model": "model_28_3828193694",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_28_3828193694/model",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Min(13) node with name 'PartitionedCall/Minimum'"
+  },
+  {
+    "model": "model_29_3350489190",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_29_3350489190/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_2_2536306892",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_2_2536306892/model",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMax(13) node with name 'StatefulPartitionedCall/ArgMax_1'"
+  },
+  {
+    "model": "model_30_3943775671",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_30_3943775671/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_31_534477985",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_31_534477985/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_32_1416639228",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_32_1416639228/model",
+    "result": 0,
+    "error": null,
+    "mad": 20.0,
+    "onnx_model_path": "exporter_test_results/tensorflow/30/model_32_1416639228/model.onnx"
+  },
+  {
+    "model": "model_33_2193873771",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_33_2193873771/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_34_4281219189",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_34_4281219189/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_35_2559323625",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_35_2559323625/model",
+    "result": 0,
+    "error": null,
+    "mad": 2.6741814613342285,
+    "onnx_model_path": "exporter_test_results/tensorflow/30/model_35_2559323625/model.onnx"
+  },
+  {
+    "model": "model_36_704152358",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_36_704152358/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_37_1420924876",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_37_1420924876/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_38_4203395519",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_38_4203395519/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_39_190497935",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_39_190497935/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_3_1784338036",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_3_1784338036/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_40_2694739164",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_40_2694739164/model",
+    "result": 1,
+    "error": "{{function_node __wrapped__Sub_device_/job:localhost/replica:0/task:0/device:CPU:0}} Incompatible shapes: [47,1,18] vs. [47,42] [Op:Sub] name: "
+  },
+  {
+    "model": "model_41_84055839",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_41_84055839/model",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Conv(11) node with name 'StatefulPartitionedCall/convolution'"
+  },
+  {
+    "model": "model_42_2731623272",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_42_2731623272/model",
+    "result": 0,
+    "error": null,
+    "mad": 8162.18505859375,
+    "onnx_model_path": "exporter_test_results/tensorflow/30/model_42_2731623272/model.onnx"
+  },
+  {
+    "model": "model_43_1872357495",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_43_1872357495/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_44_1046313962",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_44_1046313962/model",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 6 : RUNTIME_EXCEPTION : Non-zero status code returned while running Concat node. Name:'StatefulPartitionedCall/concat' Status Message: /Users/runner/work/1/s/onnxruntime/core/providers/cpu/tensor/concat.cc:141 onnxruntime::common::Status onnxruntime::ConcatBase::PrepareForCompute(onnxruntime::OpKernelContext *, const onnxruntime::ConcatBase::InlinedTensorsVector &, onnxruntime::Prepare &) const input_rank == reference_rank was false. Ranks of input data are different, cannot concatenate them. expected rank: 2 got: 3\n"
+  },
+  {
+    "model": "model_45_4234014238",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_45_4234014238/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_46_2524463318",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_46_2524463318/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_47_2921716928",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_47_2921716928/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_48_3339381522",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_48_3339381522/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_49_717148576",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_49_717148576/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_4_3230214781",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_4_3230214781/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_50_2766486949",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_50_2766486949/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_51_750130469",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_51_750130469/model",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 1 : FAIL : Load model from exporter_test_results/tensorflow/30/model_51_750130469/model.onnx failed:Node (StatefulPartitionedCall/transpose) Op (Transpose) [TypeInferenceError] Invalid attribute perm {0, 1, 2, 4, 3}, input shape = {11, 11, 1, 64}"
+  },
+  {
+    "model": "model_52_167426568",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_52_167426568/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_53_2589960722",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_53_2589960722/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_54_59759689",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_54_59759689/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_55_4250001826",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_55_4250001826/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_56_2428165650",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_56_2428165650/model",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Atan(7) node with name 'PartitionedCall/Atan_2'"
+  },
+  {
+    "model": "model_57_3056061032",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_57_3056061032/model",
+    "result": 0,
+    "error": null,
+    "mad": 7.234498500823975,
+    "onnx_model_path": "exporter_test_results/tensorflow/30/model_57_3056061032/model.onnx"
+  },
+  {
+    "model": "model_58_4042375351",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_58_4042375351/model",
+    "result": 0,
+    "error": null,
+    "mad": 257.74224853515625,
+    "onnx_model_path": "exporter_test_results/tensorflow/30/model_58_4042375351/model.onnx"
+  },
+  {
+    "model": "model_59_3736943223",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_59_3736943223/model",
+    "result": 0,
+    "error": null,
+    "mad": 1.2356995161969316e+26,
+    "onnx_model_path": "exporter_test_results/tensorflow/30/model_59_3736943223/model.onnx"
+  },
+  {
+    "model": "model_5_1781525081",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_5_1781525081/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_60_3915229257",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_60_3915229257/model",
+    "result": 0,
+    "error": null,
+    "mad": NaN,
+    "onnx_model_path": "exporter_test_results/tensorflow/30/model_60_3915229257/model.onnx"
+  },
+  {
+    "model": "model_61_2938812783",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_61_2938812783/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_62_2912966205",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_62_2912966205/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_63_804896401",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_63_804896401/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_64_261887046",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_64_261887046/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_65_2942430794",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_65_2942430794/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_66_398416107",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_66_398416107/model",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ReduceProd(13) node with name 'StatefulPartitionedCall/Prod'"
+  },
+  {
+    "model": "model_67_1837063024",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_67_1837063024/model",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMax(13) node with name 'StatefulPartitionedCall/ArgMax_1'"
+  },
+  {
+    "model": "model_68_4114368463",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_68_4114368463/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_69_2002349811",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_69_2002349811/model",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Atan(7) node with name 'StatefulPartitionedCall/Atan'"
+  },
+  {
+    "model": "model_6_157636366",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_6_157636366/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_70_3640198159",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_70_3640198159/model",
+    "result": 0,
+    "error": null,
+    "mad": 3.68904447555542,
+    "onnx_model_path": "exporter_test_results/tensorflow/30/model_70_3640198159/model.onnx"
+  },
+  {
+    "model": "model_71_777676621",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_71_777676621/model",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMax(13) node with name 'PartitionedCall/ArgMax'"
+  },
+  {
+    "model": "model_72_3219062832",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_72_3219062832/model",
+    "result": 0,
+    "error": null,
+    "mad": 2625487.0,
+    "onnx_model_path": "exporter_test_results/tensorflow/30/model_72_3219062832/model.onnx"
+  },
+  {
+    "model": "model_73_1540916147",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_73_1540916147/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_74_458257241",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_74_458257241/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_75_608825891",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_75_608825891/model",
+    "result": 0,
+    "error": null,
+    "mad": 8.047892570495605,
+    "onnx_model_path": "exporter_test_results/tensorflow/30/model_75_608825891/model.onnx"
+  },
+  {
+    "model": "model_76_1731769596",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_76_1731769596/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_77_1687045073",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_77_1687045073/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_78_3912873260",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_78_3912873260/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_79_1458685586",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_79_1458685586/model",
+    "result": 0,
+    "error": null,
+    "mad": 1355.5556640625,
+    "onnx_model_path": "exporter_test_results/tensorflow/30/model_79_1458685586/model.onnx"
+  },
+  {
+    "model": "model_7_1552020922",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_7_1552020922/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_80_3152928156",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_80_3152928156/model",
+    "result": 0,
+    "error": null,
+    "mad": Infinity,
+    "onnx_model_path": "exporter_test_results/tensorflow/30/model_80_3152928156/model.onnx"
+  },
+  {
+    "model": "model_81_2954397680",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_81_2954397680/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_82_2647630420",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_82_2647630420/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_83_1405523178",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_83_1405523178/model",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMax(13) node with name 'StatefulPartitionedCall/ArgMax_1'"
+  },
+  {
+    "model": "model_84_3185913362",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_84_3185913362/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_85_1264649724",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_85_1264649724/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_86_4097573647",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_86_4097573647/model",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ConvTranspose(11) node with name 'StatefulPartitionedCall/conv2d_transpose'"
+  },
+  {
+    "model": "model_87_2011814922",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_87_2011814922/model",
+    "result": 0,
+    "error": null,
+    "mad": 8.220392341677015e+18,
+    "onnx_model_path": "exporter_test_results/tensorflow/30/model_87_2011814922/model.onnx"
+  },
+  {
+    "model": "model_88_1296253787",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_88_1296253787/model",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Mul(14) node with name 'PartitionedCall/SelectV2__37'"
+  },
+  {
+    "model": "model_89_3842637483",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_89_3842637483/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_8_3031933632",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_8_3031933632/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_90_2516259804",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_90_2516259804/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_91_3259194038",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_91_3259194038/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_92_986299135",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_92_986299135/model",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 6 : RUNTIME_EXCEPTION : Non-zero status code returned while running Concat node. Name:'StatefulPartitionedCall/concat_5' Status Message: /Users/runner/work/1/s/onnxruntime/core/providers/cpu/tensor/concat.cc:141 onnxruntime::common::Status onnxruntime::ConcatBase::PrepareForCompute(onnxruntime::OpKernelContext *, const onnxruntime::ConcatBase::InlinedTensorsVector &, onnxruntime::Prepare &) const input_rank == reference_rank was false. Ranks of input data are different, cannot concatenate them. expected rank: 3 got: 4\n"
+  },
+  {
+    "model": "model_93_933191247",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_93_933191247/model",
+    "result": 0,
+    "error": null,
+    "mad": 0.5335496664047241,
+    "onnx_model_path": "exporter_test_results/tensorflow/30/model_93_933191247/model.onnx"
+  },
+  {
+    "model": "model_94_614434482",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_94_614434482/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_95_3529514373",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_95_3529514373/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_96_3170512685",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_96_3170512685/model",
+    "result": 0,
+    "error": null,
+    "mad": 6.0,
+    "onnx_model_path": "exporter_test_results/tensorflow/30/model_96_3170512685/model.onnx"
+  },
+  {
+    "model": "model_97_949145516",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_97_949145516/model",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Erf(13) node with name 'PartitionedCall/Gelu/Erf'"
+  },
+  {
+    "model": "model_98_798521531",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_98_798521531/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_99_849959162",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_99_849959162/model",
+    "result": 1,
+    "error": "Value for attr 'T' of bool is not in the list of allowed values: bfloat16, half, float, double, uint8, int8, uint16, int16, int32, int64, complex64, complex128, uint32, uint64\n\t; NodeDef: {{node Sub}}; Op<name=Sub; signature=x:T, y:T -> z:T; attr=T:type,allowed=[DT_BFLOAT16, DT_HALF, DT_FLOAT, DT_DOUBLE, DT_UINT8, DT_INT8, DT_UINT16, DT_INT16, DT_INT32, DT_INT64, DT_COMPLEX64, DT_COMPLEX128, DT_UINT32, DT_UINT64]> [Op:Sub] name: "
+  },
+  {
+    "model": "model_9_2766490574",
+    "path": "nnsmith_constrained_new/symbolic-cinit/tensorflow/30/model_9_2766490574/model",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 6 : RUNTIME_EXCEPTION : Non-zero status code returned while running Concat node. Name:'PartitionedCall/concat_1' Status Message: /Users/runner/work/1/s/onnxruntime/core/providers/cpu/tensor/concat.cc:141 onnxruntime::common::Status onnxruntime::ConcatBase::PrepareForCompute(onnxruntime::OpKernelContext *, const onnxruntime::ConcatBase::InlinedTensorsVector &, onnxruntime::Prepare &) const input_rank == reference_rank was false. Ranks of input data are different, cannot concatenate them. expected rank: 1 got: 2\n"
+  }
+]

@@ -1,0 +1,693 @@
+[
+  {
+    "model": "model_0_2175981648",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_0_2175981648",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Greater(13) node with name 'Greater_0'"
+  },
+  {
+    "model": "model_10_3348141882",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_10_3348141882",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_11_4151551592",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_11_4151551592",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_12_1444531734",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_12_1444531734",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_13_1264446694",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_13_1264446694",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_14_2347185057",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_14_2347185057",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_15_2531453895",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_15_2531453895",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_16_589974593",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_16_589974593",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_17_2369015894",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_17_2369015894",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_18_3614377612",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_18_3614377612",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_19_896667693",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_19_896667693",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_1_2080474790",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_1_2080474790",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_20_2233554899",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_20_2233554899",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_21_1183534001",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_21_1183534001",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_22_3074735210",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_22_3074735210",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_23_673545459",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_23_673545459",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_24_2251040128",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_24_2251040128",
+    "result": 0,
+    "error": null,
+    "mismatch": true
+  },
+  {
+    "model": "model_25_1951596049",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_25_1951596049",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Max(13) node with name 'Max_1'"
+  },
+  {
+    "model": "model_26_1390472399",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_26_1390472399",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_27_1211489725",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_27_1211489725",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_28_1340805876",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_28_1340805876",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_29_2622448208",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_29_2622448208",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_2_2203055602",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_2_2203055602",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_30_3349935902",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_30_3349935902",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_31_226641056",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_31_226641056",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_32_923802128",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_32_923802128",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_33_1272256932",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_33_1272256932",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_34_1335640448",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_34_1335640448",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_35_2438474757",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_35_2438474757",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMax(13) node with name 'ArgMax_45'"
+  },
+  {
+    "model": "model_36_2752049622",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_36_2752049622",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_37_1614567693",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_37_1614567693",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_38_549925789",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_38_549925789",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_39_3417945938",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_39_3417945938",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_3_1360067443",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_3_1360067443",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Resize(13) node with name 'Resize_11'"
+  },
+  {
+    "model": "model_40_2340487131",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_40_2340487131",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_41_623948728",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_41_623948728",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMax(13) node with name 'ArgMax_18'"
+  },
+  {
+    "model": "model_42_4100798022",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_42_4100798022",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_43_520295077",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_43_520295077",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_44_1330936602",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_44_1330936602",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_45_2633346118",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_45_2633346118",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_46_1796611249",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_46_1796611249",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_47_2961001394",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_47_2961001394",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_48_141375533",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_48_141375533",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_49_3644828446",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_49_3644828446",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_4_3363320170",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_4_3363320170",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_50_190351959",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_50_190351959",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_51_1634088928",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_51_1634088928",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_52_2237421525",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_52_2237421525",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_53_388917317",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_53_388917317",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_54_3350274731",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_54_3350274731",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_55_2562830120",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_55_2562830120",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_56_2486928109",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_56_2486928109",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_57_3943775502",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_57_3943775502",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_58_2610791145",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_58_2610791145",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_59_2608074986",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_59_2608074986",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_5_1821463163",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_5_1821463163",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_60_590321745",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_60_590321745",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_61_1958903213",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_61_1958903213",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMax(13) node with name 'ArgMax_6'"
+  },
+  {
+    "model": "model_62_1478657837",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_62_1478657837",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_63_4175813267",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_63_4175813267",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_64_2215934848",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_64_2215934848",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Tan(7) node with name 'Tan_21'"
+  },
+  {
+    "model": "model_65_2277401575",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_65_2277401575",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_66_3991419235",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_66_3991419235",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Resize(13) node with name 'Resize_23'"
+  },
+  {
+    "model": "model_67_3104011077",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_67_3104011077",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_68_2171034331",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_68_2171034331",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_69_2303654367",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_69_2303654367",
+    "result": 0,
+    "error": null,
+    "mismatch": true
+  },
+  {
+    "model": "model_6_1996505333",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_6_1996505333",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_70_2426630088",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_70_2426630088",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_71_2280493737",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_71_2280493737",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_72_4065436859",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_72_4065436859",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_73_15943874",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_73_15943874",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_74_1048198971",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_74_1048198971",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_75_137948300",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_75_137948300",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_76_1984862401",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_76_1984862401",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_77_3799290567",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_77_3799290567",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_78_353713875",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_78_353713875",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_79_4041932078",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_79_4041932078",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_7_1171201270",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_7_1171201270",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_80_3826636167",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_80_3826636167",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_81_995304628",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_81_995304628",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_82_2001607752",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_82_2001607752",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_83_3044753710",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_83_3044753710",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_84_309840192",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_84_309840192",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_85_616817242",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_85_616817242",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_86_3706012683",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_86_3706012683",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_87_2699321121",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_87_2699321121",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_88_233702570",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_88_233702570",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_89_3609044580",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_89_3609044580",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_8_4056405714",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_8_4056405714",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_90_411920919",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_90_411920919",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_91_119014384",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_91_119014384",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_92_4043549454",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_92_4043549454",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_93_3624409930",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_93_3624409930",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_94_3762851742",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_94_3762851742",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_95_412454330",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_95_412454330",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_96_2259316086",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_96_2259316086",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_97_2639458063",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_97_2639458063",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_98_1343637015",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_98_1343637015",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMin(13) node with name 'ArgMin_30'"
+  },
+  {
+    "model": "model_99_2307846667",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_99_2307846667",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_9_2251406946",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/15/model_9_2251406946",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  }
+]

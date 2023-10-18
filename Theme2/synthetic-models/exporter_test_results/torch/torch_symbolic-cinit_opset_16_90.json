@@ -1,0 +1,630 @@
+[
+  {
+    "model": "model_0_753707596",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_0_753707596",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 10 : INVALID_GRAPH : This is an invalid model. Type Error: Type 'tensor(uint8)' of input parameter (aten::matmul_309) of operator (Neg) in node (Neg_52) is invalid."
+  },
+  {
+    "model": "model_10_2884122997",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_10_2884122997",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 1 : FAIL : Node (MatMul_37_FusedMatMulAndScale) Op (FusedMatMul) [ShapeInferenceError] Incompatible dimensions for matrix multiplication"
+  },
+  {
+    "model": "model_11_3693686467",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_11_3693686467",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Erf(13) node with name 'Erf_183'"
+  },
+  {
+    "model": "model_12_1259262225",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_12_1259262225",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_13_2753125221",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_13_2753125221",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Greater(13) node with name 'Greater_1'"
+  },
+  {
+    "model": "model_14_812289446",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_14_812289446",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMax(13) node with name 'ArgMax_100'"
+  },
+  {
+    "model": "model_15_2228052751",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_15_2228052751",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_16_3601663055",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_16_3601663055",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Cos(7) node with name 'Cos_148'"
+  },
+  {
+    "model": "model_17_3733877835",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_17_3733877835",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_18_3470907750",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_18_3470907750",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 10 : INVALID_GRAPH : This is an invalid model. Type Error: Type 'tensor(uint8)' of input parameter (aten::neg_7) of operator (Neg) in node (Neg_63) is invalid."
+  },
+  {
+    "model": "model_19_3622890464",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_19_3622890464",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_1_3811211896",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_1_3811211896",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_20_2522658578",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_20_2522658578",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_21_1238963446",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_21_1238963446",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Mul(14) node with name 'Mul_9'"
+  },
+  {
+    "model": "model_22_4001562941",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_22_4001562941",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Trilu(14) node with name 'Trilu_6'"
+  },
+  {
+    "model": "model_23_384800518",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_23_384800518",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Trilu(14) node with name 'Trilu_246'"
+  },
+  {
+    "model": "model_24_729747475",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_24_729747475",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_25_602527959",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_25_602527959",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMin(13) node with name 'ArgMin_134'"
+  },
+  {
+    "model": "model_26_2847789720",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_26_2847789720",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 10 : INVALID_GRAPH : This is an invalid model. Type Error: Type 'tensor(uint8)' of input parameter (aten::matmul_0) of operator (MatMul) in node (MatMul_0) is invalid."
+  },
+  {
+    "model": "model_27_1012615138",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_27_1012615138",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Cos(7) node with name 'Cos_191'"
+  },
+  {
+    "model": "model_28_2334596315",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_28_2334596315",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Tan(7) node with name 'Tan_156'"
+  },
+  {
+    "model": "model_29_3476682660",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_29_3476682660",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMax(13) node with name 'ArgMax_266'"
+  },
+  {
+    "model": "model_2_117656455",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_2_117656455",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_30_2673416407",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_30_2673416407",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Erf(13) node with name 'Erf_94'"
+  },
+  {
+    "model": "model_31_1963250516",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_31_1963250516",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Resize(13) node with name 'Resize_194'"
+  },
+  {
+    "model": "model_32_4268764593",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_32_4268764593",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Atan(7) node with name 'Atan_26'"
+  },
+  {
+    "model": "model_33_373210653",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_33_373210653",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Tan(7) node with name 'Tan_145'"
+  },
+  {
+    "model": "model_34_1420560685",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_34_1420560685",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_35_408633914",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_35_408633914",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMax(13) node with name 'ArgMax_234'"
+  },
+  {
+    "model": "model_36_2713802690",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_36_2713802690",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMin(13) node with name 'ArgMin_199'"
+  },
+  {
+    "model": "model_37_356369947",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_37_356369947",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_38_2208650331",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_38_2208650331",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Cos(7) node with name 'Cos_209'"
+  },
+  {
+    "model": "model_39_2244698394",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_39_2244698394",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 10 : INVALID_GRAPH : This is an invalid model. Type Error: Type 'tensor(int16)' of input parameter (aten::matmul_1) of operator (MatMul) in node (MatMul_0) is invalid."
+  },
+  {
+    "model": "model_3_3540185854",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_3_3540185854",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMax(13) node with name 'ArgMax_142'"
+  },
+  {
+    "model": "model_40_1289435619",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_40_1289435619",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_41_2494945256",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_41_2494945256",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Cos(7) node with name 'Cos_119'"
+  },
+  {
+    "model": "model_42_1837786635",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_42_1837786635",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_43_1785822022",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_43_1785822022",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Tan(7) node with name 'Tan_134'"
+  },
+  {
+    "model": "model_44_2953704578",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_44_2953704578",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Trilu(14) node with name 'Trilu_81'"
+  },
+  {
+    "model": "model_45_1408463121",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_45_1408463121",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Atan(7) node with name 'Atan_186'"
+  },
+  {
+    "model": "model_46_1338698612",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_46_1338698612",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Tan(7) node with name 'Tan_113'"
+  },
+  {
+    "model": "model_47_687699078",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_47_687699078",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Atan(7) node with name 'Atan_182'"
+  },
+  {
+    "model": "model_48_1270270497",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_48_1270270497",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Cos(7) node with name 'Cos_147'"
+  },
+  {
+    "model": "model_49_2786295202",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_49_2786295202",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMax(13) node with name 'ArgMax_181'"
+  },
+  {
+    "model": "model_4_2447335799",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_4_2447335799",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMax(13) node with name 'ArgMax_128'"
+  },
+  {
+    "model": "model_50_2587367809",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_50_2587367809",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Erf(13) node with name 'Erf_95'"
+  },
+  {
+    "model": "model_51_1186136457",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_51_1186136457",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Sub(14) node with name 'Sub_63'"
+  },
+  {
+    "model": "model_52_373479186",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_52_373479186",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Trilu(14) node with name 'Trilu_28'"
+  },
+  {
+    "model": "model_53_1342957086",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_53_1342957086",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_54_4287821049",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_54_4287821049",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Tan(7) node with name 'Tan_98'"
+  },
+  {
+    "model": "model_55_2801567962",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_55_2801567962",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMax(13) node with name 'ArgMax_149'"
+  },
+  {
+    "model": "model_56_3834241576",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_56_3834241576",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Cos(7) node with name 'Cos_107'"
+  },
+  {
+    "model": "model_57_1027962493",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_57_1027962493",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 10 : INVALID_GRAPH : This is an invalid model. Type Error: Type 'tensor(uint8)' of input parameter (aten::matmul_422) of operator (MatMul) in node (MatMul_71) is invalid."
+  },
+  {
+    "model": "model_58_307735444",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_58_307735444",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMin(13) node with name 'ArgMin_91'"
+  },
+  {
+    "model": "model_59_1320798605",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_59_1320798605",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMin(13) node with name 'ArgMin_211'"
+  },
+  {
+    "model": "model_5_1854685022",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_5_1854685022",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Atan(7) node with name 'Atan_153'"
+  },
+  {
+    "model": "model_60_2309535807",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_60_2309535807",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMax(13) node with name 'ArgMax_130'"
+  },
+  {
+    "model": "model_61_2118161479",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_61_2118161479",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Resize(13) node with name 'Resize_241'"
+  },
+  {
+    "model": "model_62_3553428753",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_62_3553428753",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Resize(13) node with name 'Resize_194'"
+  },
+  {
+    "model": "model_63_96999793",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_63_96999793",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 10 : INVALID_GRAPH : This is an invalid model. Type Error: Type 'tensor(int16)' of input parameter (336) of operator (ReduceMin) in node (ReduceMin_140) is invalid."
+  },
+  {
+    "model": "model_64_250728924",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_64_250728924",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMin(13) node with name 'ArgMin_117'"
+  },
+  {
+    "model": "model_65_999518468",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_65_999518468",
+    "result": 0,
+    "error": null,
+    "mismatch": true
+  },
+  {
+    "model": "model_66_1715226779",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_66_1715226779",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_67_2838823193",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_67_2838823193",
+    "result": 0,
+    "error": null,
+    "mismatch": true
+  },
+  {
+    "model": "model_68_72227799",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_68_72227799",
+    "result": 0,
+    "error": null,
+    "mismatch": true
+  },
+  {
+    "model": "model_69_47086156",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_69_47086156",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for AveragePool(11) node with name 'AveragePool_88'"
+  },
+  {
+    "model": "model_6_2771891664",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_6_2771891664",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Cos(7) node with name 'Cos_160'"
+  },
+  {
+    "model": "model_70_3328332671",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_70_3328332671",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMin(13) node with name 'ArgMin_102'"
+  },
+  {
+    "model": "model_71_454301501",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_71_454301501",
+    "result": 0,
+    "error": null,
+    "mismatch": true
+  },
+  {
+    "model": "model_72_1763762461",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_72_1763762461",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMax(13) node with name 'ArgMax_218'"
+  },
+  {
+    "model": "model_73_470024411",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_73_470024411",
+    "result": 0,
+    "error": null,
+    "mismatch": true
+  },
+  {
+    "model": "model_74_3074300358",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_74_3074300358",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMin(13) node with name 'ArgMin_85'"
+  },
+  {
+    "model": "model_75_3072926897",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_75_3072926897",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_76_1166431201",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_76_1166431201",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMax(13) node with name 'ArgMax_37'"
+  },
+  {
+    "model": "model_77_3732378588",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_77_3732378588",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Trilu(14) node with name 'Trilu_145'"
+  },
+  {
+    "model": "model_78_467318418",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_78_467318418",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMin(13) node with name 'ArgMin_169'"
+  },
+  {
+    "model": "model_79_198582851",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_79_198582851",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMax(13) node with name 'ArgMax_93'"
+  },
+  {
+    "model": "model_7_3634137761",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_7_3634137761",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMax(13) node with name 'ArgMax_149'"
+  },
+  {
+    "model": "model_80_493330733",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_80_493330733",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMin(13) node with name 'ArgMin_193'"
+  },
+  {
+    "model": "model_81_4287267281",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_81_4287267281",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Failed to find kernel for FusedMatMul(1) (node MatMul_With_Transpose). Op with name (MatMul_With_Transpose) domain (com.microsoft) and type (FusedMatMul) kernel is not supported in CPUExecutionProvider. Encountered following errors: (Kernel found kernel in the supported version range (node_version: 1). However the types are incompatible. This op has been implemented only for the following types (tensor(float),), but the node in the model has the following type (tensor(double))\n)"
+  },
+  {
+    "model": "model_82_1582751195",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_82_1582751195",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_83_3204591131",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_83_3204591131",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_84_2451979329",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_84_2451979329",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_85_987132363",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_85_987132363",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_86_2885270308",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_86_2885270308",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Less(13) node with name 'Less_0'"
+  },
+  {
+    "model": "model_87_1174388839",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_87_1174388839",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Resize(13) node with name 'Resize_12'"
+  },
+  {
+    "model": "model_88_1400397276",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_88_1400397276",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMax(13) node with name 'ArgMax_147'"
+  },
+  {
+    "model": "model_89_1361834756",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_89_1361834756",
+    "result": 0,
+    "error": null,
+    "mismatch": false
+  },
+  {
+    "model": "model_8_42751854",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_8_42751854",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Atan(7) node with name 'Atan_162'"
+  },
+  {
+    "model": "model_90_1679600552",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_90_1679600552",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Erf(13) node with name 'Erf_88'"
+  },
+  {
+    "model": "model_91_3302636491",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_91_3302636491",
+    "result": 0,
+    "error": null,
+    "mismatch": true
+  },
+  {
+    "model": "model_92_3466876537",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_92_3466876537",
+    "result": 0,
+    "error": null,
+    "mismatch": true
+  },
+  {
+    "model": "model_93_3538205148",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_93_3538205148",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMin(13) node with name 'ArgMin_207'"
+  },
+  {
+    "model": "model_94_2702419092",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_94_2702419092",
+    "result": 0,
+    "error": null,
+    "mismatch": true
+  },
+  {
+    "model": "model_95_219829098",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_95_219829098",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Resize(13) node with name 'Resize_162'"
+  },
+  {
+    "model": "model_96_216991792",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_96_216991792",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 10 : INVALID_GRAPH : This is an invalid model. Type Error: Type 'tensor(int8)' of input parameter (aten::matmul_4) of operator (MatMul) in node (MatMul_7) is invalid."
+  },
+  {
+    "model": "model_97_2081869961",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_97_2081869961",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 10 : INVALID_GRAPH : This is an invalid model. Type Error: Type 'tensor(uint8)' of input parameter (aten::matmul_236) of operator (MatMul) in node (MatMul_50) is invalid."
+  },
+  {
+    "model": "model_98_3679286937",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_98_3679286937",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 10 : INVALID_GRAPH : This is an invalid model. Type Error: Type 'tensor(uint8)' of input parameter (aten::matmul_0) of operator (MatMul) in node (MatMul_0) is invalid."
+  },
+  {
+    "model": "model_99_2729907005",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_99_2729907005",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for Resize(13) node with name 'Resize_259'"
+  },
+  {
+    "model": "model_9_1071985917",
+    "path": "nnsmith_constrained/symbolic-cinit/torch/90/model_9_1071985917",
+    "result": 1,
+    "error": "[ONNXRuntimeError] : 9 : NOT_IMPLEMENTED : Could not find an implementation for ArgMin(13) node with name 'ArgMin_118'"
+  }
+]
